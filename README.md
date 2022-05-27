@@ -3,7 +3,6 @@
 
 #### - 🔭 I’m currently working as a Software Engineer
 #### - 🌱 I’m currently learning Spring Boot,Angular,Docker
-#### - 📫 How to reach me: sbodur25@gmail.com
 
 ## Github Informations
 ![](https://komarev.com/ghpvc/?username=your-github-serkanbodur&color=blue)
