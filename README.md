@@ -1,74 +1,51 @@
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Serkan Bodur
 
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Serkan
+#### 🔹 Software Engineer | Passionate about Backend Development, Microservices & Cloud  
 
-#### - 🔭 I’m currently working as a Software Engineer
-#### - 🌱 I’m currently learning Spring Boot,Angular,Docker
+---
 
-## Github Informations
-![](https://komarev.com/ghpvc/?username=your-github-serkanbodur&color=blue)
+## 🛠️ Skills & Tools
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=serkanbodur&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-## Contact with me:
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="serkanbodur | LinkedIn" width="40px" align="left" />][linkedin]
-[<img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="serkanbodur | HackerRank" width="40px" align="left" />][hackerrank]
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="serkanbodur | LeetCode" height="40px" width="40px" align="left" />][leetcode]
-[<img src="https://cdn.iconscout.com/icon/free/png-128/medium-4054075-3353150.png" alt="serkanbodur | Medium" width="40px" align="left" />][medium]
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<br>
-<br>
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[linkedin]: https://www.linkedin.com/in/serkan-bodur/
-[hackerrank]: https://www.hackerrank.com/SerkanB
-[leetcode]: https://leetcode.com/serkanB/
-[medium]: https://medium.com/@serkanbodur
+### Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## Languages and Tools:
-[<img align="left" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="spring" width="26px" height="27px"/>][java]
-[<img align="left" src="https://img.icons8.com/color/25/000000/python.png" alt="python" width="26px" height="27px"/>][python]
-[<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26px" height="27px"/>][spring]
-[<img align="left" src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" alt="cplus" width="26px"  height="27px" />][cplusplus]
-[<img align="left" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" alt="angular" width="26px"  height="27px" />][angular]
-[<img align="left" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" alt="tensorflow" width="26px"  height="27px" />][tensorflow]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="26px"  height="27px" />][javascript]
-[<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="26px"  height="27px" />][aws]
-[<img align="left" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="26px"  height="27px" />][gcp]
-[<img align="left" src="https://img.icons8.com/color/25/000000/firebase.png" alt="firebase" width="26px"  height="27px" />][firebase]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="26px"  height="27px"/>][docker]
-[<img align="left" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="Postgresql" width="26px"  height="27px" />][mysql]
-[<img align="left" src="https://img.icons8.com/color/25/000000/postgreesql.png" alt="Postgresql" width="26px"  height="27px" />][postgresql]
-[<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="26px" height="27px"/>][vscode]
+---
 
-<br>
-<br>
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-bodur/) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SerkanB) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/serkanB/) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serkanbodur)
 
-<details>
-  <summary>📈  My GitHub Stats</summary>
+---
 
-  <br>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanbodur&layout=compact&theme=radical)](https://github.com/serkanbodur/github-readme-stats)
-
-  ![Göksel's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanbodur&show_icons=true&theme=radical&count_private=true)
-
-</details>
-
-
-[mysql]: https://www.mysql.com/
-[java]: https://www.java.com/
-[spring]: https://spring.io
-[python]: https://www.python.org
-[cplusplus]: https://www.cplusplus.com/
-[javascript]: https://www.javascript.com
-[flutter]: https://flutter.dev
-[aws]: https://aws.amazon.com
-[gcp]: https://cloud.google.com
-[firebase]: https://firebase.google.com
-[docker]: https://www.docker.com
-[postgresql]: https://www.postgresql.org
-[vscode]: https://code.visualstudio.com
-[angular]: https://angular.io/
-[tensorflow]: https://www.tensorflow.org/
-
-
+## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanbodur&layout=compact&theme=radical)](https://github.com/serkanbodur/github-readme-stats)  
+![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanbodur&show_icons=true&theme=radical&count_private=true)
