@@ -1,51 +1,132 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Serkan Bodur
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">, I'm Serkan Bodur</h1>
 
-#### 🔹 Software Engineer | Passionate about Backend Development, Microservices & Cloud  
+<p align="center">
+  <b>Backend Software Engineer</b> · Java & Spring Boot · Microservices · Event-Driven Architecture<br/>
+  Building mission-critical systems for global clients from Balıkesir, Turkey 🇹🇷
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/serkan-bodur/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@serkanbodur"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://leetcode.com/serkanB/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/SerkanB"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="mailto:sbodur25@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+- 🏗️ **5+ years** building scalable microservices and enterprise backends — currently **Software Engineer @ Adesso**
+- 🚗 Working on an **automotive enterprise platform (Mercedes-Benz)**: Java + Spring Boot microservices on **Kubernetes**, containerized with **Docker**, backed by **PostgreSQL**
+- ⚡ Deep in **event-driven systems** — Kafka, Kafka Streams, RabbitMQ, MQTT
+- 🤖 Daily **AI-agentic development** — GitHub Copilot CLI & Claude Code with custom skills and workflows wired into the delivery pipeline
+- 🌍 Working in **international teams** (Germany 🇩🇪 / Turkey 🇹🇷) with daily English communication
+- 📱 On the side: shipping **Flutter** mobile apps end-to-end, from Drift/SQLite data layers to the store listing
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+**Frameworks**
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Databases
+**Messaging & Streaming**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+
+**Data**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-### Tools & IDEs
+**DevOps & Observability**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Testing & Tooling**
+
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+**AI-Assisted Engineering**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkan-bodur/) 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/SerkanB) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/serkanB/) 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serkanbodur)
+## 🚀 What I've Been Building
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **Automotive Enterprise Platform** | Microservice platform for a major automotive client — service decomposition, containerized deploys on Kubernetes, GitHub Actions CI/CD, agentic development workflows with custom skills | `Java` `Spring Boot` `Kubernetes` `Docker` `PostgreSQL` `GitHub Actions` |
+| **Mobile.de Delorean** | Vehicle marketplace integration microservices with auto-pricing algorithms, real-time monitoring and notification systems | `Spring Boot` `Kafka` `Maven` `JUnit` |
+| **EV Payment System** | Event-driven billing & charging workflows — real-time stream processing and async messaging | `Kafka Streams` `RabbitMQ` `Spring Boot` `PostgreSQL` |
+| **KoçHolding PersoneSphere** | Enterprise HR platform for employee management and organizational workflows | `C#` `.NET` `MSSQL` |
+| **Soka-Bau** | End-to-end quoting system — database design, REST APIs, deployment automation | `Java` `Spring Boot` `Jenkins` `Azure DevOps` |
+| **Seyahat Defterim** | Personal travel journal app — trips, expenses, photo albums, diary & timeline; offline-first and bilingual (TR/EN) | `Flutter` `Riverpod` `Drift/SQLite` `go_router` |
+
+---
+
+## 🤖 How I Work
+
+I run a **fully agentic development loop** day to day — Copilot CLI and Claude Code driven by
+project-scoped instructions, custom skills per workflow (feature work, refactors, reviews, releases),
+task boards checked into the repo, and CI/CD on GitHub Actions closing the loop.
+Less boilerplate, more architecture.
 
 ---
 
 ## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkanbodur&layout=compact&theme=radical)](https://github.com/serkanbodur/github-readme-stats)  
-![Serkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=serkanbodur&show_icons=true&theme=radical&count_private=true)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=serkanbodur&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Serkan's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanbodur&layout=compact&theme=radical&hide_border=true" alt="Top languages"/>
+</p>
+
+---
+
+## 🏆 Accomplishments
+
+- 🥇 **TÜBİTAK & Teknofest 2019** — Efficiency Challenge Electromobile Finalist *(Devrim-26 Team)*
+- 🤖 **Teknofest 2019** — Artificial Intelligence Competition Finalist *(ESOGU-CV Team)*
+- 🎓 **B.Sc. in Computer Engineering** — Eskişehir Osmangazi University
+
+---
+
+<p align="center">
+  <i>Happy to talk about backend architecture, event-driven systems, and AI-assisted engineering.</i>
+</p>
