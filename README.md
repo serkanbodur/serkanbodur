@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Backend Software Engineer</b> · Java & Spring Boot · Microservices · Event-Driven Architecture<br/>
-  Building mission-critical systems for global clients from Balıkesir, Turkey 🇹🇷
+  Designing and shipping distributed systems that run in production 🇹🇷
 </p>
 
 <p align="center">
@@ -17,12 +17,12 @@
 
 ## 👨‍💻 About Me
 
-- 🏗️ **5+ years** building scalable microservices and enterprise backends — currently **Software Engineer @ Adesso**
-- 🚗 Working on an **automotive enterprise platform (Mercedes-Benz)**: Java + Spring Boot microservices on **Kubernetes**, containerized with **Docker**, backed by **PostgreSQL**
-- ⚡ Deep in **event-driven systems** — Kafka, Kafka Streams, RabbitMQ, MQTT
-- 🤖 Daily **AI-agentic development** — GitHub Copilot CLI & Claude Code with custom skills and workflows wired into the delivery pipeline
-- 🌍 Working in **international teams** (Germany 🇩🇪 / Turkey 🇹🇷) with daily English communication
-- 📱 On the side: shipping **Flutter** mobile apps end-to-end, from Drift/SQLite data layers to the store listing
+- 🏗️ **5+ years** designing scalable microservices and enterprise backends with **Java / Spring Boot**
+- ☸️ Day to day: **Spring Boot microservices on Kubernetes**, containerized with **Docker**, backed by **PostgreSQL**, delivered through **GitHub Actions** pipelines
+- ⚡ Deep in **event-driven architecture** — Kafka, Kafka Streams, RabbitMQ, MQTT
+- 🤖 **AI-agentic development** as a daily workflow — Copilot CLI & Claude Code with custom skills per task type
+- 🔭 Interested in distributed system design, streaming pipelines, observability and clean architecture
+- 📱 On the side: **Flutter** apps end-to-end, from Drift/SQLite data layers to release builds
 
 ---
 
@@ -88,16 +88,16 @@
 
 ---
 
-## 🚀 What I've Been Building
+## 🚀 What I Work On
 
-| Project | What it is | Stack |
+| Domain | Engineering focus | Stack |
 | --- | --- | --- |
-| **Automotive Enterprise Platform** | Microservice platform for a major automotive client — service decomposition, containerized deploys on Kubernetes, GitHub Actions CI/CD, agentic development workflows with custom skills | `Java` `Spring Boot` `Kubernetes` `Docker` `PostgreSQL` `GitHub Actions` |
-| **Mobile.de Delorean** | Vehicle marketplace integration microservices with auto-pricing algorithms, real-time monitoring and notification systems | `Spring Boot` `Kafka` `Maven` `JUnit` |
-| **EV Payment System** | Event-driven billing & charging workflows — real-time stream processing and async messaging | `Kafka Streams` `RabbitMQ` `Spring Boot` `PostgreSQL` |
-| **KoçHolding PersoneSphere** | Enterprise HR platform for employee management and organizational workflows | `C#` `.NET` `MSSQL` |
-| **Soka-Bau** | End-to-end quoting system — database design, REST APIs, deployment automation | `Java` `Spring Boot` `Jenkins` `Azure DevOps` |
-| **Seyahat Defterim** | Personal travel journal app — trips, expenses, photo albums, diary & timeline; offline-first and bilingual (TR/EN) | `Flutter` `Riverpod` `Drift/SQLite` `go_router` |
+| **Cloud-native microservice platforms** | Service decomposition, REST & gRPC contracts, containerized deploys on Kubernetes, GitHub Actions CI/CD, agentic development workflows | `Java` `Spring Boot` `Kubernetes` `Docker` `PostgreSQL` `GitHub Actions` |
+| **Marketplace integration services** | High-volume third-party integrations, auto-pricing algorithms, real-time monitoring and notification pipelines | `Spring Boot` `Kafka` `Maven` `JUnit` |
+| **Event-driven billing & charging** | Stream processing for real-time billing workflows, async messaging, idempotent consumers, query optimization | `Kafka Streams` `RabbitMQ` `Spring Boot` `PostgreSQL` |
+| **Enterprise workflow platforms** | Domain modeling for HR/back-office processes, RESTful APIs, relational schema design | `C#` `.NET` `MSSQL` |
+| **Quoting & pricing systems** | End-to-end delivery — database design, REST API development, deployment automation | `Java` `Spring Boot` `Jenkins` `Azure DevOps` |
+| **Offline-first mobile apps** | Layered architecture (presentation → domain → data), local SQLite persistence, reactive state, i18n | `Flutter` `Riverpod` `Drift/SQLite` `go_router` |
 
 ---
 
