@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=200&section=header&text=Serkan%20Bodur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20Software%20Engineer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Microservices&descAlignY=54&descSize=16" width="100%" alt="Serkan Bodur"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=200&section=header&text=Serkan%20Bodur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20Software%20Engineer&descAlignY=54&descSize=16" width="100%" alt="Serkan Bodur"/>
 
 <div align="center">
+
+### Java & Spring Boot · Microservices · Event-Driven Architecture
 
 <a href="https://github.com/serkanbodur">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=620&lines=Backend+Software+Engineer;Java+%26+Spring+Boot+%7C+Microservices;Event-Driven+Systems+with+Kafka;Kubernetes+%7C+Docker+%7C+PostgreSQL;AI-Agentic+Development%2C+Every+Day" alt="What I do"/>
