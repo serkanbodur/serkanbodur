@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=200&section=header&text=Serkan%20Bodur&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Software%20Engineer&descAlignY=56&descSize=18" width="100%" alt="Serkan Bodur"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:1F6FEB,100:0D1117&height=200&section=header&text=Serkan%20Bodur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20Software%20Engineer%20%C2%B7%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Microservices&descAlignY=54&descSize=16" width="100%" alt="Serkan Bodur"/>
 
 <div align="center">
 
