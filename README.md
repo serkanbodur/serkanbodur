@@ -18,16 +18,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+### About me
 
-<img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
+🔧 Backend Software Engineer with 5+ years building scalable microservices and enterprise systems for global clients.
 
-- 🔨 I build **Spring Boot microservices** that run on **Kubernetes** and ship through **GitHub Actions**
-- ⚡ Living in **event-driven land** — Kafka, Kafka Streams, RabbitMQ, MQTT
-- 🧱 Care a lot about **clean architecture**, testability and observability
-- 🤖 Code **agentically** every day — CLI agents with custom skills per workflow
-- 📱 Weekend mode: **Flutter** apps, offline-first, from SQLite layer to release build
-- 💬 Ask me about **backend architecture, streaming pipelines or AI-assisted development**
+- ☕ **Core stack:** Java & Spring Boot (also Kotlin, C# / .NET) — clean architecture, TDD/BDD, and a strong focus on testability
+- ⚡ **Event-driven by default:** Kafka, Kafka Streams, RabbitMQ and MQTT for real-time, async, high-throughput workflows
+- 🧩 **What I build:** marketplace integration services with auto-pricing algorithms, event-driven billing & charging pipelines, enterprise HR platforms, and end-to-end quoting systems
+- 🗄️ **Data layer:** PostgreSQL, MSSQL, Oracle PL/SQL, MongoDB, Redis, Elasticsearch — with query & performance optimization
+- 🚢 **Ship & operate:** Docker, Kubernetes, Jenkins, GitHub Actions, Azure DevOps — monitored with Prometheus & Grafana
+- 🤖 **AI-assisted development:** work daily with CLI/agentic tools (Claude, Copilot, Gemini, Codex) to move faster
+- 💬 **Ask me about:** backend architecture, event-streaming pipelines, and microservice design
 
 <br clear="right"/>
 
@@ -35,8 +36,8 @@
 @Component
 public class Serkan {
 
-    private final String[] focus  = { "Microservices", "Event-Driven Design", "Clean Architecture" };
-    private final String[] daily  = { "Spring Boot", "Kafka", "Kubernetes", "PostgreSQL" };
+    private final String[] focus  = { "Microservices", "Clean Architecture" };
+    private final String[] daily  = { "Java", "Spring Boot", "PostgreSQL" };
     private final String workflow = "AI-agentic development with CLI agents";
 
     public String currentlyLearning() {
